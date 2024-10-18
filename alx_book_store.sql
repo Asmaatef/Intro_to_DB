@@ -1,4 +1,4 @@
-CREATE  DATABASE alx_book_store ;
+CREATE  DATABASE alx_book_store;
 Use alx_book_store ;
 CREATE TABLE Authors(
 uthor_id INT AUTOINCREMENT Primary KEY ,
